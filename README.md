@@ -70,3 +70,11 @@ Google ADK(Agent Development Kit)는 Google의 AI 에이전트를 개발하고 �
 - `analytics/`: 데이터 분석 및 시각화 에이전트
 - `sampleAgent/`: 샘플 에이전트
 - `graphSample/`: 그래프 및 시각화 에이전트
+
+
+## 참고 자료
+
+- https://google.github.io/adk-docs
+- https://github.com/google/adk-python
+- https://github.com/bhancockio/agent-development-kit-crash-course
+- https://github.com/google-a2a/A2A
