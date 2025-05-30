@@ -60,7 +60,6 @@ Google ADK(Agent Development Kit)는 Google의 AI 에이전트를 개발하고 �
    Server running at http://localhost:8000
    ```
 
-## 주요 기능
 
 ## 프로젝트 구조
 
