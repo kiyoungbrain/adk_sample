@@ -31,13 +31,9 @@ Google ADK(Agent Development Kit)는 Google의 AI 에이전트를 개발하고 �
    pip install -r requirements.txt
    ```
 
-## 웹 실행 방법 (Shell)
+## 실행 방법
 
-1. 터미널/쉘 실행
-   - Windows: PowerShell 또는 Command Prompt 실행
-   - macOS/Linux: Terminal 실행
-
-2. 가상환경 활성화 (아직 활성화하지 않은 경우)
+1. 가상환경 활성화 (아직 활성화하지 않은 경우)
    ```bash
    # Windows:
    .venv\Scripts\Activate
@@ -45,12 +41,12 @@ Google ADK(Agent Development Kit)는 Google의 AI 에이전트를 개발하고 �
    source .venv/bin/activate
    ```
 
-3. 프로젝트 디렉토리로 이동
+2. 프로젝트 디렉토리로 이동
    ```bash
    cd /path/to/adk_20250507
    ```
 
-4. Dev UI 서버 실행
+3. Dev UI 서버 실행
    ```bash
    adk web
    ```
